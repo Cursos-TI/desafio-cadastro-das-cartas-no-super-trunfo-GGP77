@@ -62,7 +62,7 @@ int main() {
     printf("Pib per Capta: %.2f \n", pibpercapta);
     
         int Pontosturisticos;
-        char Cidade[50], Estado[30], Codigo[10];
+        char Cidade[20], Estado[30], Codigo[10];
         float Area, Pib, Populacao, DensidadePopulacional, PibPerCapta;
     
     printf("Informe o Estado: \n");
